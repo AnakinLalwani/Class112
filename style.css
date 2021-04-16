@@ -1,0 +1,35 @@
+.header{
+    background-color: white;
+    color: red;
+}
+.header img{
+    width: 100px;
+}
+body {
+    background-color: #f5dbda;
+    font-family: 'Special Elite', cursive;
+}
+.main_div {
+    background-color: #ffd2c7;
+    color: black;
+    margin-top: 15px;
+    border: solid white 2px;
+}
+#camera, #results {
+    width: 310px;
+    height:300px;
+    border: white solid 5px;
+    box-shadow: white 5px 5px 18px;
+    margin-bottom: 20px;
+}
+.footer_div img{
+    width: 100px;
+}
+.footer_div h4{
+    background-color: white;
+    color: black;
+    margin-top: 15px;
+    border: solid white 2px;
+    border-radius: 25px;
+    width: 50%;
+}
